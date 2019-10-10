@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'Prova',
+  name: 'Specialties',
   props: {
     specialties: {}
   }
